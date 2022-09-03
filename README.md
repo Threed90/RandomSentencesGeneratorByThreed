@@ -26,7 +26,7 @@ It uses SentenceElements class to generate an arbitrary/randomly sentence.
 
 <img src="https://github.com/Threed90/RandomSentencesGeneratorByThreed/blob/main/RepoPics/InOutputOne.png" alt="game icon" width="500" height="200">
 <img src="https://github.com/Threed90/RandomSentencesGeneratorByThreed/blob/main/RepoPics/InOutputTwo.png" alt="game icon" width="500" height="200">
-<img src="https://github.com/Threed90/RandomSentencesGeneratorByThreed/blob/main/RepoPics/InOutputThree.png" alt="game icon" width="500" height="200">
+<img src="https://github.com/Threed90/RandomSentencesGeneratorByThreed/blob/main/RepoPics/InOutputThree.png" alt="game icon" width="500" height="120">
 
 # Demo
 
