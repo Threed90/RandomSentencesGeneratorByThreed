@@ -1,5 +1,9 @@
 # RandomSentencesGeneratorByThreed
 
+[![dot net version](https://img.shields.io/badge/.NET-6.0-green)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+[![IDE](https://img.shields.io/badge/Visual%20Studio-2022-brightgreen)](https://visualstudio.microsoft.com/vs/)
+[![C# version](https://img.shields.io/badge/C%23-v10.0-brightgreen)](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
+
 This random sentence generator is just for fun! These sentences can provide humor and be a great way to surprise others by sharing a standout sentence on social media platforms and gather the reaction of your network.
 
 <img src="https://github.com/Threed90/RandomSentencesGeneratorByThreed/blob/main/RepoPics/Icon.png" alt="game icon" width="500" height="500">
