@@ -24,7 +24,7 @@ while (true)
         else
         {
             Console.WriteLine();
-            Console.WriteLine("Invalid key! You need to press [Enter] for new sentence or [Esc] for exit.");
+            Console.WriteLine("Invalid key!!! You need to press [Enter] for new sentence or [Esc] for exit.");
         }
     }
     Console.WriteLine();
