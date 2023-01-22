@@ -7,7 +7,7 @@
             var random = new Random();
 
             var nameIndex = random.Next(0, SentenceElements.Names.Count);
-            Thread.Sleep(200);
+            Thread.Sleep(199);
             var placeIndex = random.Next(0, SentenceElements.Places.Count);
             Thread.Sleep(200);
             var verbsIndex = random.Next(0, SentenceElements.Verbs.Count);
